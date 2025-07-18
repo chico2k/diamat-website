@@ -37,7 +37,7 @@ export default function HeroSection() {
               
               <p className="mt-6 text-lg leading-8 text-gray-200 max-w-2xl">
                 For over 40 years, Diamat Maschinenbau GmbH has been at the forefront of plastic manufacturing, 
-                processing, and recycling machinery. Experience "Made in Germany" quality with worldwide references.
+                processing, and recycling machinery. Experience &ldquo;Made in Germany&rdquo; quality with worldwide references.
               </p>
               
               {/* Feature points */}
